@@ -1,3 +1,13 @@
+### TAGS
+
+alpine-arm, alpine, arm, latest
+
+debian-arm, debian
+
+alpine-amd64, amd64
+
+debian-amd64
+
 ### FROM
 
 https://github.com/oblique/create_ap
